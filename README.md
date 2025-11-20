@@ -1,7 +1,8 @@
 DA5401-2025-Data-Challenge
 
 Arkaprava Ghosh
-DA25C003
+
+Roll No-DA25C003
 
 This repository contains my source code for the DA5401 end-semester data challenge on metric learning applied to conversational AI evaluation.
 
@@ -23,4 +24,4 @@ Train a model that takes metric definition embeddings and prompt–response pair
 
 Submission
 
-Predictions should be submitted as ID and score pairs in CSV format.
+Predictions have been submitted as ID and score pairs in CSV format.
